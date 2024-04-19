@@ -1,0 +1,219 @@
+{
+  "sagaList": [
+    {
+      "sagaName": "East Blue Saga",
+      "arcList": [
+        {
+          "arcName": "Romance Dawn Arc",
+          "startChapter": 1,
+          "endChapter": 7
+        },
+        {
+          "arcName": "Orange Town Arc",
+          "startChapter": 8,
+          "endChapter": 21
+        },
+        {
+          "arcName": "Syrup Village Arc",
+          "startChapter": 22,
+          "endChapter": 41
+        },
+        {
+          "arcName": "Baratie Arc",
+          "startChapter": 42,
+          "endChapter": 68
+        },
+        {
+          "arcName": "Arlong Park Arc",
+          "startChapter": 69,
+          "endChapter": 95
+        },
+        {
+          "arcName": "Loguetown Arc",
+          "startChapter": 96,
+          "endChapter": 100
+        }
+      ]
+    },
+    {
+      "sagaName": "Arabasta Saga",
+      "arcList": [
+        {
+          "arcName": "Reverse Mountain Arc",
+          "startChapter": 101,
+          "endChapter": 105
+        },
+        {
+          "arcName": "Whisky Peak Arc",
+          "startChapter": 106,
+          "endChapter": 114
+        },
+        {
+          "arcName": "Little Garden Arc",
+          "startChapter": 115,
+          "endChapter": 129
+        },
+        {
+          "arcName": "Drum Island Arc",
+          "startChapter": 130,
+          "endChapter": 154
+        },
+        {
+          "arcName": "Arabasta Arc",
+          "startChapter": 155,
+          "endChapter": 217
+        }
+      ]
+    },
+    {
+      "sagaName": "Sky Island Saga",
+      "arcList": [
+        {
+          "arcName": "Jaya Arc",
+          "startChapter": 218,
+          "endChapter": 236
+        },
+        {
+          "arcName": "Skypiea Arc",
+          "startChapter": 237,
+          "endChapter": 302
+        }
+      ]
+    },
+    {
+      "sagaName": "Water 7 Saga",
+      "arcList": [
+        {
+          "arcName": "Long Ring Long Land Arc",
+          "startChapter": 303,
+          "endChapter": 321
+        },
+        {
+          "arcName": "Water 7 Arc",
+          "startChapter": 322,
+          "endChapter": 374
+        },
+        {
+          "arcName": "Enies Lobby Arc",
+          "startChapter": 375,
+          "endChapter": 430
+        },
+        {
+          "arcName": "Post-Enies Lobby Arc",
+          "startChapter": 431,
+          "endChapter": 441
+        }
+      ]
+    },
+    {
+      "sagaName": "Thriller Bark Saga",
+      "arcList": [
+        {
+          "arcName": "Thriller Bark Arc",
+          "startChapter": 442,
+          "endChapter": 489
+        }
+      ]
+    },
+    {
+      "sagaName": "Summit War Saga",
+      "arcList": [
+        {
+          "arcName": "Sabaody Archipelago Arc",
+          "startChapter": 490,
+          "endChapter": 513
+        },
+        {
+          "arcName": "Amazon Lily Arc",
+          "startChapter": 514,
+          "endChapter": 524
+        },
+        {
+          "arcName": "Impel Down Arc",
+          "startChapter": 525,
+          "endChapter": 549
+        },
+        {
+          "arcName": "Marineford Arc",
+          "startChapter": 550,
+          "endChapter": 580
+        },
+        {
+          "arcName": "Post-War Arc",
+          "startChapter": 581,
+          "endChapter": 597
+        }
+      ]
+    },
+    {
+      "sagaName": "Fish-Man Island Saga",
+      "arcList": [
+        {
+          "arcName": "Return to Sabaody Arc",
+          "startChapter": 598,
+          "endChapter": 602
+        },
+        {
+          "arcName": "Fish-Man Island Arc",
+          "startChapter": 603,
+          "endChapter": 653
+        }
+      ]
+    },
+    {
+      "sagaName": "Dressrosa Saga",
+      "arcList": [
+        {
+          "arcName": "Punk Hazard Arc",
+          "startChapter": 654,
+          "endChapter": 699
+        },
+        {
+          "arcName": "Dressrosa Arc",
+          "startChapter": 700,
+          "endChapter": 801
+        }
+      ]
+    },
+    {
+      "sagaName": "Whole Cake Island Saga",
+      "arcList": [
+        {
+          "arcName": "Zou Arc",
+          "startChapter": 802,
+          "endChapter": 824
+        },
+        {
+          "arcName": "Whole Cake Island Arc",
+          "startChapter": 825,
+          "endChapter": 902
+        },
+        {
+          "arcName": "Levely Arc",
+          "startChapter": 903,
+          "endChapter": 908
+        }
+      ]
+    },
+    {
+      "sagaName": "Wano Country Saga",
+      "arcList": [
+        {
+          "arcName": "Wano Country Arc",
+          "startChapter": 909,
+          "endChapter": 1057
+        }
+      ]
+    },
+    {
+      "sagaName": "Final Saga",
+      "arcList": [
+        {
+          "arcName": "Egghead Arc",
+          "startChapter": 1058,
+          "endChapter": null
+        }
+      ]
+    }
+  ]
+}
